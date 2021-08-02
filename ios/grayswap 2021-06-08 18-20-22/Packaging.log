@@ -1,0 +1,294 @@
+2021-06-08 10:18:54 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7ffce1cc9830; archive(resolved)='<IDEArchive: 0x7ffcdfb1ae20>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7ffce1cc9830; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7ffce1c1dcc0; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce10ccfa0; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1c38a60; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1839820; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1344860; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1cc3780; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1cff030; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce15b3870; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ffce125eea0; teamID='KY3NZCZ4LZ', teamName='hua kang', teamType='Individual', username='erlingzhangyi@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ffce1840df0; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='(null)'>
+	<IDEDistributionContext: 0x7ffce1c0b690; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ffd75f93200>', team='(null)'>
+	<IDEDistributionContext: 0x7ffce18487f0; archive = '<IDEArchive: 0x7ffcdfb1ae20>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7ffce1cc9830>
+2021-06-08 10:18:54 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-06-08 10:18:54 +0000  Processing step: IDEDistributionCopyItemStep
+2021-06-08 10:18:54 +0000  Running /usr/bin/ditto '-V' '/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app'
+2021-06-08 10:18:54 +0000  >>> Copying /Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app 
+2021-06-08 10:18:54 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-06-08 10:18:54 +0000  14594 bytes for ./_CodeSignature/CodeResources
+2021-06-08 10:18:54 +0000  copying file ./AppIcon20x20@2x.png ... 
+2021-06-08 10:18:54 +0000  2433 bytes for ./AppIcon20x20@2x.png
+2021-06-08 10:18:54 +0000  copying file ./grayswap ... 
+2021-06-08 10:18:54 +0000  45404720 bytes for ./grayswap
+2021-06-08 10:18:54 +0000  copying file ./AppIcon20x20@3x.png ... 
+3338 bytes for ./AppIcon20x20@3x.png
+copying file ./AppIcon60x60@2x.png ... 
+4790 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon29x29@2x.png ... 
+3237 bytes for ./AppIcon29x29@2x.png
+copying file ./AppIcon40x40@3x.png ... 
+4790 bytes for ./AppIcon40x40@3x.png
+copying file ./AppIcon40x40@2x.png ... 
+4736 bytes for ./AppIcon40x40@2x.png
+copying file ./AppIcon29x29@3x.png ... 
+4299 bytes for ./AppIcon29x29@3x.png
+copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+530 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+copying file ./AccessibilityResources.bundle/Info.plist ... 
+745 bytes for ./AccessibilityResources.bundle/Info.plist
+copying file ./AppIcon60x60@3x.png ... 
+5507 bytes for ./AppIcon60x60@3x.png
+copying file ./Assets.car ... 
+119007 bytes for ./Assets.car
+copying file ./main.jsbundle ... 
+1433566 bytes for ./main.jsbundle
+2021-06-08 10:18:54 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-06-08 10:18:54 +0000  3124 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-06-08 10:18:54 +0000  copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-06-08 10:18:54 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2021-06-08 10:18:54 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2021-06-08 10:18:54 +0000  copying file ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+2021-06-08 10:18:54 +0000  1798 bytes for ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+2021-06-08 10:18:54 +0000  copying file ./Frameworks/OpenSSL.framework/OpenSSL ... 
+2021-06-08 10:18:55 +0000  20930384 bytes for ./Frameworks/OpenSSL.framework/OpenSSL
+2021-06-08 10:18:55 +0000  copying file ./Frameworks/OpenSSL.framework/Info.plist ... 
+716 bytes for ./Frameworks/OpenSSL.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+13628 bytes for ./embedded.mobileprovision
+2021-06-08 10:18:55 +0000  copying file ./assets/app.json ... 
+2021-06-08 10:18:55 +0000  53 bytes for ./assets/app.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/css-tree/package.json ... 
+2021-06-08 10:18:55 +0000  3040 bytes for ./assets/node_modules/css-tree/package.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/css-tree/data/patch.json ... 
+2021-06-08 10:18:55 +0000  38458 bytes for ./assets/node_modules/css-tree/data/patch.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/dom-serializer/foreignNames.json ... 
+2021-06-08 10:18:55 +0000  3149 bytes for ./assets/node_modules/dom-serializer/foreignNames.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/css-select/lib/procedure.json ... 
+2021-06-08 10:18:55 +0000  145 bytes for ./assets/node_modules/css-select/lib/procedure.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/mdn-data/css/at-rules.json ... 
+2021-06-08 10:18:55 +0000  16632 bytes for ./assets/node_modules/mdn-data/css/at-rules.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/mdn-data/css/properties.json ... 
+2021-06-08 10:18:55 +0000  265782 bytes for ./assets/node_modules/mdn-data/css/properties.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/mdn-data/css/syntaxes.json ... 
+2021-06-08 10:18:55 +0000  26634 bytes for ./assets/node_modules/mdn-data/css/syntaxes.json
+copying file ./assets/node_modules/entities/lib/maps/xml.json ... 
+53 bytes for ./assets/node_modules/entities/lib/maps/xml.json
+copying file ./assets/node_modules/entities/lib/maps/decode.json ... 
+299 bytes for ./assets/node_modules/entities/lib/maps/decode.json
+copying file ./assets/node_modules/entities/lib/maps/entities.json ... 
+2021-06-08 10:18:55 +0000  32977 bytes for ./assets/node_modules/entities/lib/maps/entities.json
+2021-06-08 10:18:55 +0000  copying file ./assets/node_modules/entities/lib/maps/legacy.json ... 
+2021-06-08 10:18:55 +0000  1356 bytes for ./assets/node_modules/entities/lib/maps/legacy.json
+2021-06-08 10:18:55 +0000  copying file ./assets/img/downLoad.png ... 
+2021-06-08 10:18:55 +0000  530 bytes for ./assets/img/downLoad.png
+2021-06-08 10:18:55 +0000  copying file ./assets/img/poster.png ... 
+2021-06-08 10:18:55 +0000  49566 bytes for ./assets/img/poster.png
+copying file ./assets/img/bottom.png ... 
+1257 bytes for ./assets/img/bottom.png
+copying file ./assets/img/haibao.png ... 
+111218 bytes for ./assets/img/haibao.png
+copying file ./assets/img/top.png ... 
+1304 bytes for ./assets/img/top.png
+copying file ./assets/img/logo.png ... 
+736 bytes for ./assets/img/logo.png
+2021-06-08 10:18:55 +0000  copying file ./assets/img/logos.png ... 
+2021-06-08 10:18:55 +0000  3672 bytes for ./assets/img/logos.png
+2021-06-08 10:18:55 +0000  copying file ./assets/img/jian.png ... 
+2021-06-08 10:18:55 +0000  297 bytes for ./assets/img/jian.png
+2021-06-08 10:18:55 +0000  copying file ./Info.plist ... 
+2021-06-08 10:18:55 +0000  1466 bytes for ./Info.plist
+2021-06-08 10:18:55 +0000  copying file ./PkgInfo ... 
+2021-06-08 10:18:55 +0000  8 bytes for ./PkgInfo
+2021-06-08 10:18:55 +0000  /usr/bin/ditto exited with 0
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-06-08 10:18:55 +0000  Skipping profile for item: <IDEDistributionItem: 0x7ffce1836ee0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7ffcdf4be840:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffce1844920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce2fa9470; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffce149ee20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='(null)', teamID='KY3NZCZ4LZ', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7ffcdf4e77d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-06-08 10:18:55 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 10:18:55 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-06-08 10:18:55 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-06-08 10:18:55 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-06-08 10:18:55 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-06-08 10:18:55 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL' '-l' '-o' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL'
+2021-06-08 10:18:55 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 10:18:55 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/grayswap' '-l' '-o' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/grayswap'
+2021-06-08 10:18:56 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-06-08 10:18:56 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-06-08 10:18:56 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionSymbolsStep
+2021-06-08 10:18:56 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-06-08 10:18:56 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionAppThinningStep
+2021-06-08 10:18:56 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionArchThinningStep
+2021-06-08 10:18:56 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL' '-verify_arch' 'arm64e'
+2021-06-08 10:18:56 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 10:18:56 +0000  Skipping architecture thinning for item "OpenSSL" because arch "arm64e" wasn't found
+2021-06-08 10:18:56 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/grayswap' '-verify_arch' 'arm64e'
+2021-06-08 10:18:56 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 10:18:56 +0000  Skipping architecture thinning for item "grayswap" because arch "arm64e" wasn't found
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionODRStep
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-06-08 10:18:56 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7ffce1836ee0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7ffcdf4be840:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffce1844920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce2eefac0; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffd8b004e30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='(null)', teamID='KY3NZCZ4LZ', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7ffcdf4e77d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2021-06-08 10:18:56 +0000  Running /usr/bin/xattr '-crs' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app'
+2021-06-08 10:18:56 +0000  /usr/bin/xattr exited with 0
+2021-06-08 10:18:56 +0000  Processing step: IDEDistributionCodesignStep
+2021-06-08 10:18:56 +0000  Entitlements for <IDEDistributionItem: 0x7ffce1836ee0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7ffcdf4be840:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffce1844920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce2fa9470; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffce14a8810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='(null)', teamID='KY3NZCZ4LZ', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7ffcdf4e77d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 10:18:56 +0000  Writing entitlements for <IDEDistributionItem: 0x7ffce1836ee0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7ffcdf4be840:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffce1844920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce1cf82b0; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffce1cf7e80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='(null)', teamID='KY3NZCZ4LZ', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7ffcdf4e77d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'> to: /var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/entitlements~~~D1ypWb
+2021-06-08 10:18:56 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '738D2DD368828150F26C7C032BE7BF555AAD5D04' '--entitlements' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/entitlements~~~D1ypWb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework'
+2021-06-08 10:19:35 +0000  /var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework: signed bundle with Mach-O universal (armv7 arm64) [com.github.krzyzanowskim.OpenSSL]
+2021-06-08 10:19:35 +0000  /usr/bin/codesign exited with 0
+2021-06-08 10:19:35 +0000  Entitlements for <IDEDistributionItem: 0x7ffce3062890; bundleID='org.asia.grayswap', path='<DVTFilePath:0x7ffd5310e2c0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffd8a1e1c00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce2fa9470; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffce1483c20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='{
+    "application-identifier" = "KY3NZCZ4LZ.org.asia.grayswap";
+    "com.apple.developer.team-identifier" = KY3NZCZ4LZ;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "KY3NZCZ4LZ.org.asia.grayswap"
+    );
+}', teamID='KY3NZCZ4LZ', identifier='org.asia.grayswap', executablePath='<DVTFilePath:0x7ffce03994d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/grayswap'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "KY3NZCZ4LZ.org.asia.grayswap";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = KY3NZCZ4LZ;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "KY3NZCZ4LZ.org.asia.grayswap"
+    );
+}
+2021-06-08 10:19:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7ffce3062890; bundleID='org.asia.grayswap', path='<DVTFilePath:0x7ffd5310e2c0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ffd8a1e1c00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ffce1c59610; name='Apple Development: hua kang (6V5775T53M)', hash='790F0EBF99D1D6D137DDDD1671D86F11EB01B3BF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ffd135c2f70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-19 07:56:25 +0000''>', entitlements='{
+    "application-identifier" = "KY3NZCZ4LZ.org.asia.grayswap";
+    "com.apple.developer.team-identifier" = KY3NZCZ4LZ;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "KY3NZCZ4LZ.org.asia.grayswap"
+    );
+}', teamID='KY3NZCZ4LZ', identifier='org.asia.grayswap', executablePath='<DVTFilePath:0x7ffce03994d0:'/Users/fxwh/Library/Developer/Xcode/Archives/2021-06-08/grayswap 2021-6-8, 5.45 PM.xcarchive/Products/Applications/grayswap.app/grayswap'>', hardenedRuntime='0'>'> to: /var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/entitlements~~~C6dBL6
+2021-06-08 10:19:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '738D2DD368828150F26C7C032BE7BF555AAD5D04' '--entitlements' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/entitlements~~~C6dBL6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app'
+2021-06-08 10:20:10 +0000  /var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app: signed app bundle with Mach-O universal (armv7 arm64) [org.asia.grayswap]
+2021-06-08 10:20:10 +0000  /usr/bin/codesign exited with 0
+2021-06-08 10:20:10 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-06-08 10:20:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 10:20:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 10:20:10 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-06-08 10:20:10 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root' '/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Packages/grayswap.ipa'
+2021-06-08 10:20:10 +0000  >>> Copying /var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root 
+2021-06-08 10:20:10 +0000  copying file ./Payload/grayswap.app/_CodeSignature/CodeResources ... 
+2021-06-08 10:20:10 +0000  14594 bytes for ./Payload/grayswap.app/_CodeSignature/CodeResources
+2021-06-08 10:20:10 +0000  copying file ./Payload/grayswap.app/AppIcon20x20@2x.png ... 
+2021-06-08 10:20:10 +0000  2433 bytes for ./Payload/grayswap.app/AppIcon20x20@2x.png
+2021-06-08 10:20:10 +0000  copying file ./Payload/grayswap.app/grayswap ... 
+2021-06-08 10:20:11 +0000  39755744 bytes for ./Payload/grayswap.app/grayswap
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AppIcon20x20@3x.png ... 
+3338 bytes for ./Payload/grayswap.app/AppIcon20x20@3x.png
+copying file ./Payload/grayswap.app/AppIcon60x60@2x.png ... 
+2021-06-08 10:20:11 +0000  4790 bytes for ./Payload/grayswap.app/AppIcon60x60@2x.png
+copying file ./Payload/grayswap.app/AppIcon29x29@2x.png ... 
+2021-06-08 10:20:11 +0000  3237 bytes for ./Payload/grayswap.app/AppIcon29x29@2x.png
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AppIcon40x40@3x.png ... 
+2021-06-08 10:20:11 +0000  4790 bytes for ./Payload/grayswap.app/AppIcon40x40@3x.png
+copying file ./Payload/grayswap.app/AppIcon40x40@2x.png ... 
+2021-06-08 10:20:11 +0000  4736 bytes for ./Payload/grayswap.app/AppIcon40x40@2x.png
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AppIcon29x29@3x.png ... 
+2021-06-08 10:20:11 +0000  4299 bytes for ./Payload/grayswap.app/AppIcon29x29@3x.png
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-06-08 10:20:11 +0000  530 bytes for ./Payload/grayswap.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AccessibilityResources.bundle/Info.plist ... 
+2021-06-08 10:20:11 +0000  745 bytes for ./Payload/grayswap.app/AccessibilityResources.bundle/Info.plist
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/AppIcon60x60@3x.png ... 
+2021-06-08 10:20:11 +0000  5507 bytes for ./Payload/grayswap.app/AppIcon60x60@3x.png
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/Assets.car ... 
+2021-06-08 10:20:11 +0000  119007 bytes for ./Payload/grayswap.app/Assets.car
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/main.jsbundle ... 
+2021-06-08 10:20:11 +0000  1433566 bytes for ./Payload/grayswap.app/main.jsbundle
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-06-08 10:20:11 +0000  3124 bytes for ./Payload/grayswap.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-06-08 10:20:11 +0000  896 bytes for ./Payload/grayswap.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/grayswap.app/LaunchScreen.storyboardc/Info.plist ... 
+2021-06-08 10:20:11 +0000  258 bytes for ./Payload/grayswap.app/LaunchScreen.storyboardc/Info.plist
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+2021-06-08 10:20:11 +0000  1798 bytes for ./Payload/grayswap.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+2021-06-08 10:20:11 +0000  copying file ./Payload/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL ... 
+2021-06-08 10:20:12 +0000  16437936 bytes for ./Payload/grayswap.app/Frameworks/OpenSSL.framework/OpenSSL
+copying file ./Payload/grayswap.app/Frameworks/OpenSSL.framework/Info.plist ... 
+2021-06-08 10:20:12 +0000  716 bytes for ./Payload/grayswap.app/Frameworks/OpenSSL.framework/Info.plist
+copying file ./Payload/grayswap.app/embedded.mobileprovision ... 
+2021-06-08 10:20:12 +0000  13934 bytes for ./Payload/grayswap.app/embedded.mobileprovision
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/app.json ... 
+2021-06-08 10:20:12 +0000  53 bytes for ./Payload/grayswap.app/assets/app.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/css-tree/package.json ... 
+2021-06-08 10:20:12 +0000  3040 bytes for ./Payload/grayswap.app/assets/node_modules/css-tree/package.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/css-tree/data/patch.json ... 
+2021-06-08 10:20:12 +0000  38458 bytes for ./Payload/grayswap.app/assets/node_modules/css-tree/data/patch.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/dom-serializer/foreignNames.json ... 
+2021-06-08 10:20:12 +0000  3149 bytes for ./Payload/grayswap.app/assets/node_modules/dom-serializer/foreignNames.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/css-select/lib/procedure.json ... 
+2021-06-08 10:20:12 +0000  145 bytes for ./Payload/grayswap.app/assets/node_modules/css-select/lib/procedure.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/mdn-data/css/at-rules.json ... 
+2021-06-08 10:20:12 +0000  16632 bytes for ./Payload/grayswap.app/assets/node_modules/mdn-data/css/at-rules.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/mdn-data/css/properties.json ... 
+2021-06-08 10:20:12 +0000  265782 bytes for ./Payload/grayswap.app/assets/node_modules/mdn-data/css/properties.json
+copying file ./Payload/grayswap.app/assets/node_modules/mdn-data/css/syntaxes.json ... 
+2021-06-08 10:20:12 +0000  26634 bytes for ./Payload/grayswap.app/assets/node_modules/mdn-data/css/syntaxes.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/xml.json ... 
+2021-06-08 10:20:12 +0000  53 bytes for ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/xml.json
+copying file ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/decode.json ... 
+2021-06-08 10:20:12 +0000  299 bytes for ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/decode.json
+copying file ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/entities.json ... 
+2021-06-08 10:20:12 +0000  32977 bytes for ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/entities.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/legacy.json ... 
+2021-06-08 10:20:12 +0000  1356 bytes for ./Payload/grayswap.app/assets/node_modules/entities/lib/maps/legacy.json
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/img/downLoad.png ... 
+2021-06-08 10:20:12 +0000  530 bytes for ./Payload/grayswap.app/assets/img/downLoad.png
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/img/poster.png ... 
+2021-06-08 10:20:12 +0000  49566 bytes for ./Payload/grayswap.app/assets/img/poster.png
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/img/bottom.png ... 
+1257 bytes for ./Payload/grayswap.app/assets/img/bottom.png
+copying file ./Payload/grayswap.app/assets/img/haibao.png ... 
+2021-06-08 10:20:12 +0000  111218 bytes for ./Payload/grayswap.app/assets/img/haibao.png
+copying file ./Payload/grayswap.app/assets/img/top.png ... 
+2021-06-08 10:20:12 +0000  1304 bytes for ./Payload/grayswap.app/assets/img/top.png
+copying file ./Payload/grayswap.app/assets/img/logo.png ... 
+2021-06-08 10:20:12 +0000  736 bytes for ./Payload/grayswap.app/assets/img/logo.png
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/assets/img/logos.png ... 
+2021-06-08 10:20:12 +0000  3672 bytes for ./Payload/grayswap.app/assets/img/logos.png
+copying file ./Payload/grayswap.app/assets/img/jian.png ... 
+2021-06-08 10:20:12 +0000  297 bytes for ./Payload/grayswap.app/assets/img/jian.png
+2021-06-08 10:20:12 +0000  copying file ./Payload/grayswap.app/Info.plist ... 
+2021-06-08 10:20:12 +0000  1466 bytes for ./Payload/grayswap.app/Info.plist
+copying file ./Payload/grayswap.app/PkgInfo ... 
+2021-06-08 10:20:12 +0000  8 bytes for ./Payload/grayswap.app/PkgInfo
+2021-06-08 10:20:12 +0000  /usr/bin/ditto exited with 0
+2021-06-08 10:20:12 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-06-08 10:20:12 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-06-08 10:20:12 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-06-08 10:20:12 +0000  IDEDistributionItem init <DVTFilePath:0x7ffce04e0d70:'/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app/Frameworks/OpenSSL.framework'>
+2021-06-08 10:20:12 +0000  IDEDistributionItem init <DVTFilePath:0x7ffd2318eac0:'/var/folders/41/n2_1zrh519965bln1kybkhfh0000gn/T/XcodeDistPipeline.~~~AvRVU7/Root/Payload/grayswap.app'>
+2021-06-08 10:20:12 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-06-08 10:20:12 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
